@@ -75,20 +75,6 @@ SzQq2AY=
 ```
 </details>
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/villa9cyber">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=villa9cyber&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="villa9cyber's Github Stats" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=villa9cyber&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" />
-  </a>
-</div>
-<br clear="both">
-
----
-
 <div align="center">
   <p><i>"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards - and even then I have my doubts."</i></p>
 </div>
