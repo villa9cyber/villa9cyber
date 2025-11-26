@@ -46,7 +46,7 @@ Here are some of the tools I'm developing to sharpen my skills:
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **Network Monitor** | A tool to analyze and monitor network traffic in real-time. | `Python`, `Scapy` |
-| **Port Scanner** | Custom multi-threaded port scanner for reconnaissance. | `Python`, `Sockets` |
+
 
 ---
 
